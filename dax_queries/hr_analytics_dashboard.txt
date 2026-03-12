@@ -1,0 +1,5 @@
+Attrition Count
+Attrition count = if(HR_Analytics[Attrition]=="Yes",1,0)
+
+Attrition Rate
+Attrition Rate = SUM(HR_Analytics[Attrition count])/SUM(HR_Analytics[EmployeeCount])
