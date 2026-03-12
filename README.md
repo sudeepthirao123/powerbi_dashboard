@@ -73,5 +73,3 @@ The project utilizes several custom DAX measures for advanced calculations. Belo
 4. **Explore:** Use the interactive slicers and filters to drill down into the data.
 
 ---
-
-*Developed with ❤️ using Power BI and DAX.*
